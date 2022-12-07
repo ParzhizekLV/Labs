@@ -13,3 +13,18 @@ print("Прогноз погоды на неделю:")
 for i in data["list"]:
     print (i["dt_txt"])
     print ("\t","Видимость: ", i["visibility"]," м ; Скорость ветра: ", i['wind']['speed'],"м/с\n")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fdsfsd
